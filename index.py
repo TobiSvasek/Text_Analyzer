@@ -61,4 +61,3 @@ if verify_login(username, password):
         text_analyzer(texts[choice - 1])
     else:
         print("Invalid choice, terminating")
-
